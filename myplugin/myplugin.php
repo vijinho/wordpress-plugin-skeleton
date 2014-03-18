@@ -1,15 +1,15 @@
 <?php
 /**
  * Plugin Name: MyPlugin
- * Plugin URI: http://www.example.com/myplugin
+ * Plugin URI: https://github.com/vijinho/wordpress-plugin-skeleton
  * Description: MyPlugin-specific features
  * Version: 1.0
- * Author: Joe Bloggs
- * Author URI: http://www.example.com/author
+ * Author: Vijay Mahrra
+ * Author URI: https://github.com/vijinho
  * License: GPLv2
  */
 
-/*  Copyright 2014 Joe Bloggs
+/*  Copyright 2014 Vijay Mahrra
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License, version 2, as 

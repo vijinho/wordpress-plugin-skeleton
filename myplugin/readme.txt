@@ -13,7 +13,7 @@ Plugin to enable MyPlugin-specific features
 Copy to wp-content/plugins/myplugin/ folder
 
 == Frequently Asked Questions ==
-http://www.example.com/myplugin
+https://github.com/vijinho/wordpress-plugin-skeleton
 
 == Changelog ==
 Initial version
